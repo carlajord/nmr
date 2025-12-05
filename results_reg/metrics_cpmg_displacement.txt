@@ -1,0 +1,1 @@
+{'feature_type': 'cpmg', 'target_type': 'displacement', 'mse': np.float64(35.640270406862776), 'mae': np.float64(3.3559597066376097), 'rmse': np.float64(5.969947270023646), 'r2': np.float64(0.5496618714187256), 'optimization_time': 6577.096209049225, 'best_validation_rmse': 6.2172094037922685, 'n_trials': 100}

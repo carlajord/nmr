@@ -1,0 +1,3 @@
+{'accuracy': 0.7232323232323232, 'precision': np.float64(0.7100037350198054), 'recall': np.float64(0.7232323232323232), 'f1': np.float64(0.6944714504929075), 'optimization_time': 412.073282957077, 'best_validation_f1': 0.7376119404229023, 'n_trials': 5, 'confusion_matrix': array([[246,  10, 153],
+       [ 41,   9,  43],
+       [ 22,   5, 461]])}

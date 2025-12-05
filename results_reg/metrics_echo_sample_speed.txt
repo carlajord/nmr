@@ -1,0 +1,1 @@
+{'feature_type': 'echo_sample', 'target_type': 'speed', 'mse': np.float64(17441.18440640857), 'mae': np.float64(46.57585116530264), 'rmse': np.float64(132.0650764070826), 'r2': np.float64(0.9418948622369214), 'optimization_time': 1386.3853106498718, 'best_validation_rmse': 109.83318361225123, 'n_trials': 100}

@@ -1,0 +1,1 @@
+{'feature_type': 'cpmg', 'target_type': 'mqi', 'mse': np.float64(0.07484075864267353), 'mae': np.float64(0.20075571276345408), 'rmse': np.float64(0.273570390654167), 'r2': np.float64(0.5308123626616679), 'optimization_time': 2259.02237033844, 'best_validation_rmse': 0.27398654342758977, 'n_trials': 100}

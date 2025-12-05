@@ -1,0 +1,1 @@
+{'feature_type': 'echo_sample', 'target_type': 'displacement', 'mse': np.float64(3.5491966419274372), 'mae': np.float64(0.9391830145031073), 'rmse': np.float64(1.8839311669823389), 'r2': np.float64(0.9551535789306252), 'optimization_time': 3005.0445845127106, 'best_validation_rmse': 1.9655323073962156, 'n_trials': 100}

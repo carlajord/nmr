@@ -1,0 +1,1 @@
+{'feature_type': 'echo_sample', 'target_type': 'mqi', 'mse': np.float64(0.028851728459686133), 'mae': np.float64(0.11908988916339255), 'rmse': np.float64(0.16985796554676538), 'r2': np.float64(0.8191243039937779), 'optimization_time': 2109.120355606079, 'best_validation_rmse': 0.173475351664439, 'n_trials': 100}

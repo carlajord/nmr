@@ -1,0 +1,1 @@
+{'feature_type': 'fft_cpmg', 'target_type': 'speed', 'mse': np.float64(18784.677715635804), 'mae': np.float64(47.74822810021251), 'rmse': np.float64(137.05720599675087), 'r2': np.float64(0.9374190272249517), 'optimization_time': 5337.244177341461, 'best_validation_rmse': 97.91031855373456, 'n_trials': 100}
